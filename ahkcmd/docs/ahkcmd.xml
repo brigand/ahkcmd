@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ahkcmd</name>
+    </assembly>
+    <members>
+        <member name="T:AhkCmd.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:AhkCmd.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:AhkCmd.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:AhkCmd.Properties.Resources.ScriptToLoad">
+             <summary>
+               Looks up a localized string similar to #Persistent
+            #NoTrayIcon
+            #ErrorStdOut
+            
+            CMDPRINT(t) {
+            Msgbox Lets Print %t%
+            }.
+             </summary>
+        </member>
+        <member name="M:AhkCmd.Program.WriteIntro">
+            <summary>
+             Write an intro message in two colors on one line
+            </summary>
+        </member>
+        <member name="M:AhkCmd.Program.UserGetAction">
+            <summary>
+            Recieve a command from the user
+            </summary>
+            <returns>AutoHotkey code to be executed</returns>
+        </member>
+        <member name="M:AhkCmd.Program.GetWorkingDir(System.Boolean)">
+            <summary>
+            Get the current working directory and optionally the user name
+            </summary>
+            <param name="showUser">If true the return will be prefixed with "user@", where "user" 
+            is the name of the Windows account which launched this program</param>
+            <returns>The complete working directory in the form of a string</returns>
+        </member>
+        <member name="M:AhkCmd.Program.GetWorkingDir">
+            <summary>
+            Get the current working directory
+            </summary>
+            <returns>The complete working directory in the form of a string</returns>
+        </member>
+        <member name="M:AhkCmd.Program.GetEndSignal(System.String)">
+            <summary>
+            Analize a code line to dertimine if it's multiline
+            </summary>
+            <param name="codeline">One line of AutoHotkey code</param>
+            <returns>For multiline commands it returns the end signal, "return" or "}".  Otherwise null.</returns>
+        </member>
+    </members>
+</doc>

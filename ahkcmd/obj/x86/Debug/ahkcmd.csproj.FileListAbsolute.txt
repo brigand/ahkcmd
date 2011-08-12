@@ -1,0 +1,13 @@
+C:\Users\User\Documents\AutoHotkey\DLL\cmd\ahkcmd\ahkcmd\bin\Debug\ahkcmd.exe
+C:\Users\User\Documents\AutoHotkey\DLL\cmd\ahkcmd\ahkcmd\bin\Debug\ahkcmd.pdb
+C:\Users\User\Documents\AutoHotkey\DLL\cmd\ahkcmd\ahkcmd\bin\Debug\ahkcmd.xml
+C:\Users\User\Documents\AutoHotkey\DLL\cmd\ahkcmd\ahkcmd\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\AutoHotkey\DLL\cmd\ahkcmd\ahkcmd\obj\x86\Debug\ahkcmd.Properties.Resources.resources
+C:\Users\User\Documents\AutoHotkey\DLL\cmd\ahkcmd\ahkcmd\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Documents\AutoHotkey\DLL\cmd\ahkcmd\ahkcmd\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Documents\AutoHotkey\DLL\cmd\ahkcmd\ahkcmd\obj\x86\Debug\ahkcmd.exe
+C:\Users\User\Documents\AutoHotkey\DLL\cmd\ahkcmd\ahkcmd\obj\x86\Debug\ahkcmd.pdb
+C:\Users\User\Documents\AutoHotkey\DLL\cmd\ahkcmd\ahkcmd\bin\Debug\ahkcmd.exe.manifest
+C:\Users\User\Documents\AutoHotkey\DLL\cmd\ahkcmd\ahkcmd\bin\Debug\ahkcmd.application
+C:\Users\User\Documents\AutoHotkey\DLL\cmd\ahkcmd\ahkcmd\obj\x86\Debug\ahkcmd.exe.manifest
+C:\Users\User\Documents\AutoHotkey\DLL\cmd\ahkcmd\ahkcmd\obj\x86\Debug\ahkcmd.application

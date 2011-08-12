@@ -1,0 +1,8 @@
+#Persistent
+#NoTrayIcon
+#ErrorStdOut
+
+CMDPRINT(t) {
+Msgbox Lets Print %t%
+}
+
