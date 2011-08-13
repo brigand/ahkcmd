@@ -11,3 +11,4 @@ C:\Users\User\Documents\AutoHotkey\DLL\cmd\ahkcmd\ahkcmd\bin\Debug\ahkcmd.exe.ma
 C:\Users\User\Documents\AutoHotkey\DLL\cmd\ahkcmd\ahkcmd\bin\Debug\ahkcmd.application
 C:\Users\User\Documents\AutoHotkey\DLL\cmd\ahkcmd\ahkcmd\obj\x86\Debug\ahkcmd.exe.manifest
 C:\Users\User\Documents\AutoHotkey\DLL\cmd\ahkcmd\ahkcmd\obj\x86\Debug\ahkcmd.application
+C:\Users\User\Documents\AutoHotkey\DLL\cmd\ahkcmd\ahkcmd\bin\Debug\Wrapper.dll

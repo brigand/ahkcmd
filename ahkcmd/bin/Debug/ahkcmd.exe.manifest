@@ -42,14 +42,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ahkcmd.exe" size="977408">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ahkcmd.exe" size="976384">
       <assemblyIdentity name="ahkcmd" version="0.1.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>VT4z8LrZM9xjo6TnmS50F1NC+Pg=</dsig:DigestValue>
+        <dsig:DigestValue>wDTfaqkWmXjzMMy2N3cVGA/3aJY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Wrapper.dll" size="7168">
+      <assemblyIdentity name="Wrapper" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>3VXWabPKoDkeH/kng4DM5ocisSg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
