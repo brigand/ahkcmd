@@ -3,3 +3,5 @@ C:\Users\User\Documents\AutoHotkey\DLL\Wrapper\Wrapper\bin\Debug\Wrapper.pdb
 C:\Users\User\Documents\AutoHotkey\DLL\Wrapper\Wrapper\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\User\Documents\AutoHotkey\DLL\Wrapper\Wrapper\obj\x86\Debug\Wrapper.exe
 C:\Users\User\Documents\AutoHotkey\DLL\Wrapper\Wrapper\obj\x86\Debug\Wrapper.pdb
+C:\Users\User\Documents\AutoHotkey\DLL\cmd\ahkcmd\Wrapper\obj\x86\Debug\Wrapper.exe
+C:\Users\User\Documents\AutoHotkey\DLL\cmd\ahkcmd\Wrapper\obj\x86\Debug\Wrapper.pdb

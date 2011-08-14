@@ -78,10 +78,7 @@ namespace AhkCmd.Properties {
         ///   Looks up a localized string similar to #Persistent
         ///#NoTrayIcon
         ///#ErrorStdOut
-        ///
-        ///CMDPRINT(t) {
-        ///Msgbox Lets Print %t%
-        ///}.
+        ///.
         /// </summary>
         internal static string ScriptToLoad {
             get {

@@ -128,10 +128,7 @@
     <value>#Persistent
 #NoTrayIcon
 #ErrorStdOut
-
-CMDPRINT(t) {
-Msgbox Lets Print %t%
-}</value>
+</value>
     <comment>Pass this to ahktextdll</comment>
   </data>
 </root>
